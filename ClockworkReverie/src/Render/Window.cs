@@ -1,6 +1,7 @@
+namespace ClockworkReverie.Render;
+
 using static SDL3.SDL;
 
-namespace ClockworkReverie;
 
 public unsafe class Window : IDisposable
 {
